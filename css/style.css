@@ -1,0 +1,47 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+h1{
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+a , a:hover{
+  color: black;
+}
+
+.input{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.link{
+  font-size: 14px;
+  padding: 0px;
+}
+.description {
+  padding-top:5px;
+}
+.heading{
+  padding-bottom: 0px !important;
+  margin-bottom: 0px;
+}
+.notFound{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+#ui-id-1{
+  width: 32%!important;
+  margin-left: auto!important;
+  margin-right: auto!important;
+  list-style: none;
+  border: 2px solid black;
+}
+li:hover{
+  background-color: #568AF2;
+  color: white;
+  padding: 0px;
+
+}
